@@ -1,6 +1,14 @@
 # <img src="https://github.com/Rillmo/so_long/assets/51233626/6db1c86b-ed23-4583-9361-9fb1176a12d6" size=50/> so_long
 This is simple cat game made in C
 
+## Preview
+***BASIC VERSION*** <br/>
+![so_long](https://github.com/Rillmo/so_long/assets/51233626/b5dae734-79ac-4134-90c0-1e23595c5948)
+<br/>
+***BONUS VERSION*** <br/>
+![so_long_bonus](https://github.com/Rillmo/so_long/assets/51233626/cb8c2876-361f-42d1-852d-529c8dfaf5df)
+<br/>
+
 ## Before start
 This game has 2 versions, ***basic*** and ***bonus***. <br/>
 <br/>
